@@ -199,7 +199,7 @@ Access the web page though this link: http://127.0.0.1:8000/iot/
 
 ## Contributors
 
-[@nature1995](http://ranxiaolang.com)  
+intelibestluck@gmail.com  
 
 [@sergulaydore](https://sergulaydore.com)  
 
